@@ -90,7 +90,7 @@ The simulation outputs:
 - **Execution cost and average price** of optimal vs baseline
 - **Savings in basis points (bps)**
 
-Currnet output:
+**Current output:**
 ```json
 {
   "best_parameters": {
